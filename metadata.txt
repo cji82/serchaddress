@@ -9,6 +9,7 @@ tags=kakao, address, search, local
 
 author=Jeong-il Cha
 email=cha@dnisystem.com
+homepage=https://github.com/cji82/serchaddress
 
 experimental=False
 deprecated=False
